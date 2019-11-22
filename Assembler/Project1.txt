@@ -1,8 +1,3 @@
-			Project 1--CDA 3101 (Fall 2019)
-
-Assembler
-Due Date: Week of September 23, 2019 (2 weeks)
-
 1. Purpose
 
 This project is intended to help you understand the instructions of a very
